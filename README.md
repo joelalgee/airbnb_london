@@ -45,4 +45,5 @@ The zipped data used for the analysis.
 
 ## Data sources and references
 
-Airbnb data is provided by Inside Airbnb (http://insideairbnb.com/get-the-data.html).
+* Airbnb data is provided by Inside Airbnb (http://insideairbnb.com/get-the-data.html).
+* An accompanying blog post can be found at https://joelalgee.medium.com/inside-airbnb-london-uk-data-analysis-4628b4915e7e
