@@ -1,5 +1,7 @@
 # Inside Airbnb London (UK) Data Analysis
 
+Analysing Inside Airbnb London (UK) Data using linear and quantile regression in Python
+
 ## Summary
 
 Inside Airbnb is an independent, non-commercial set of tools and data that allows us to explore how Airbnb (a short-term accommodation marketplace connecting tourists and tenants with residential home owners) is really being used in cities around the world.
