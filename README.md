@@ -49,4 +49,4 @@ The zipped data used for the analysis.
 
 ## Credits
 
-* Airbnb data is provided by [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
+This project was provided by [Udacity](https://www.udacity.com) as part of their [Data Scientist nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025). Airbnb data were provided by [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
