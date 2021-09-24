@@ -47,6 +47,14 @@ Static HTML version of the above
 
 The zipped data used for the analysis.
 
+## Conclusions
+
+Neighborhood does affect median listing price, with the cheapest (Barking & Dagenham) being just over half as expensive as the most expensive (Westminster and Kensington & Chelsea).
+
+Neighborhood does affect median listing reviews per month, with the quietest (Redbridge), being about a third as busy as the busiest (Westminster, Camden, Hillingdon, Bromley, City of London).
+
+The five most important factors for getting more reviews per month are average review score, self checkin, response time to enquiries, minimum nights, and pets being allowed.
+
 ## Credits
 
 This project was provided by [Udacity](https://www.udacity.com) as part of their [Data Scientist nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025). Airbnb data were provided by [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
