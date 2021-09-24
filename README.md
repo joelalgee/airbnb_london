@@ -1,6 +1,6 @@
 # Inside Airbnb London (UK) Data Analysis
 
-Analysing Airbnb's London market, using linear and quantile regression in Python
+Analysing and visualising Airbnb's London market, using linear and quantile regression in Python
 
 ## Summary
 
